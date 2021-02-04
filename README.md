@@ -1,1 +1,1 @@
-# SpringCloudConfig
+# SpringCloudConfigServerExample
